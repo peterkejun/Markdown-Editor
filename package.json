@@ -1,0 +1,25 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "A cross-platform desktop editor for creating markdowns.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peterkejun/Markdown-Editor.git"
+  },
+  "author": "Peter Ke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterkejun/Markdown-Editor/issues"
+  },
+  "homepage": "https://github.com/peterkejun/Markdown-Editor#readme",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  },
+  "dependencies": {}
+}

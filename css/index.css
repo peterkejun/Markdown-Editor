@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+#wrapper {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    
+}
+
+#wrapper div {
+    height: 100%;
+    width: 50%;
+}
+
+#editor {
+    background-color: blue;
+}
+
+#formatter {
+    background-color: red;
+}
+
+.text-display textarea {
+    resize: none;
+    width: 100%;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+    background: transparent;
+}
