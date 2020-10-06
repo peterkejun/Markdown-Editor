@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/peterkejun/Markdown-Editor#readme",
   "devDependencies": {
-    "electron": "^9.0.5"
+    "electron": "^9.3.1"
   },
   "dependencies": {}
 }
